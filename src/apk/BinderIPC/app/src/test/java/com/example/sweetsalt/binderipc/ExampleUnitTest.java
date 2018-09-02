@@ -1,4 +1,4 @@
-package sweetsalt.example.com.binderipc;
+package com.example.sweetsalt.binderipc;
 
 import org.junit.Test;
 

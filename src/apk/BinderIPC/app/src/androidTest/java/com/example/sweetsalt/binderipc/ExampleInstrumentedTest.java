@@ -1,4 +1,4 @@
-package sweetsalt.example.com.binderipc;
+package com.example.sweetsalt.binderipc;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("sweetsalt.example.com.binderipc", appContext.getPackageName());
+        assertEquals("com.example.sweetsalt.binderipc", appContext.getPackageName());
     }
 }
